@@ -1,16 +1,15 @@
 {
-  "versao": "1.8.0",
+  "versao": "1.9.0",
   "novidades": [
-    "Novas ferramentas: Papel timbrado, Cortar margens, Cortar páginas ao meio, Mudar tamanho da página, Páginas por folha (com livreto) e Achatar e limpar PDF.",
-    "Imagens para PDF: agora dá para pôr 2 ou 4 fotos em cada folha (ex.: frente e verso do RG numa folha só)."
+    "Novas ferramentas: PDF para texto, Texto para PDF, Extrair imagens e Comparar PDFs (veja o que mudou entre duas versões de um documento)."
   ],
   "data": "2026-10-19",
   "arquivos": [
     {
       "caminho": "AvulsoIA-editorPDF.html",
-      "origem": "versoes/AvulsoIA-1.8.0.html",
-      "sha256": "2d1f287a45bc36b7d94a7e0e3962ea93cacd0a4c12cb83782dc1299893ea66f1",
-      "tamanho": 2335328
+      "origem": "versoes/AvulsoIA-1.9.0.html",
+      "sha256": "fa1e28d83f61ad0b49684f1cf5d04c08cc71c043aace74d06850f85ddb2300f8",
+      "tamanho": 2362147
     },
     {
       "caminho": "avulsoia.pyw",
@@ -26,9 +25,9 @@
     }
   ],
   "janela": 2,
-  "arquivo": "AvulsoIA-1.8.0.html",
-  "sha256": "2d1f287a45bc36b7d94a7e0e3962ea93cacd0a4c12cb83782dc1299893ea66f1",
-  "tamanho": 2335328,
+  "arquivo": "AvulsoIA-1.9.0.html",
+  "sha256": "fa1e28d83f61ad0b49684f1cf5d04c08cc71c043aace74d06850f85ddb2300f8",
+  "tamanho": 2362147,
   "icone": {
     "arquivo": "versoes/avulsoia-1.3.2.ico",
     "sha256": "4e75017b80e24aaebd287884fa3e77ed049f4616aa5dbabe235871cd465b2e67",
