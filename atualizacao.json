@@ -1,21 +1,22 @@
 {
-  "versao": "1.4.0",
+  "versao": "1.5.0",
   "novidades": [
-    "Prévia do arquivo escolhido: na tela inicial aparece a miniatura, o número de páginas e o tamanho, e o botão \"Ver prévia\" mostra as páginas em tamanho grande antes de você escolher o que fazer."
+    "A janela do Avulso IA não fecha mais durante as atualizações: ela mostra \"Aplicando a atualização…\" e volta sozinha já na versão nova.",
+    "Esta atualização ainda fecha e abre o Avulso IA uma última vez, para trocar a parte que abre a janela."
   ],
   "data": "2026-10-19",
   "arquivos": [
     {
       "caminho": "AvulsoIA-editorPDF.html",
-      "origem": "versoes/AvulsoIA-1.4.0.html",
-      "sha256": "f10e910e660a3fcb441ce0b3bb79e01237e88b19eb0b254824c5f8a7699f4cb7",
-      "tamanho": 2273592
+      "origem": "versoes/AvulsoIA-1.5.0.html",
+      "sha256": "8c09b9a4b6d3e78b6df4b607f9cd4b59e5579fc80513518dbaff1f1fcc925390",
+      "tamanho": 2274272
     },
     {
       "caminho": "avulsoia.pyw",
-      "origem": "programa/1.3.3/avulsoia.pyw",
-      "sha256": "fddc94b8a138be6738f0683e376252e2feeb23a92eba20342e9346775d08fbf4",
-      "tamanho": 28937
+      "origem": "programa/1.5.0/avulsoia.pyw",
+      "sha256": "40d43a2c8b768e824297da43eabbb7791895f52c5ee8ebcdc93b767fac27b30c",
+      "tamanho": 38930
     },
     {
       "caminho": "avulsoia.ico",
@@ -24,9 +25,10 @@
       "tamanho": 70537
     }
   ],
-  "arquivo": "AvulsoIA-1.4.0.html",
-  "sha256": "f10e910e660a3fcb441ce0b3bb79e01237e88b19eb0b254824c5f8a7699f4cb7",
-  "tamanho": 2273592,
+  "janela": 1,
+  "arquivo": "AvulsoIA-1.5.0.html",
+  "sha256": "8c09b9a4b6d3e78b6df4b607f9cd4b59e5579fc80513518dbaff1f1fcc925390",
+  "tamanho": 2274272,
   "icone": {
     "arquivo": "versoes/avulsoia-1.3.2.ico",
     "sha256": "4e75017b80e24aaebd287884fa3e77ed049f4616aa5dbabe235871cd465b2e67",
