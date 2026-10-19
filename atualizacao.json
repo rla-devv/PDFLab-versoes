@@ -1,22 +1,22 @@
 {
-  "versao": "1.6.0",
+  "versao": "1.6.1",
   "novidades": [
-    "Desfazer e Refazer (ou Ctrl+Z e Ctrl+Y) agora também em Juntar, Dividir, Extrair, Girar, Imagens para PDF e Editar e assinar.",
-    "No Editar e assinar, o Desfazer agora também volta o que foi movido, apagado ou mudado de cor e tamanho."
+    "Corrige a atualização que deixava o botão \"Nova versão\" travado, sem recarregar a tela.",
+    "Depois desta atualização, feche o Avulso IA e abra de novo uma vez para concluir."
   ],
   "data": "2026-10-19",
   "arquivos": [
     {
       "caminho": "AvulsoIA-editorPDF.html",
-      "origem": "versoes/AvulsoIA-1.6.0.html",
-      "sha256": "c035648f0a1f676cb1290fefb54ead4cc07eadf67537d715e6afc048b429f79a",
-      "tamanho": 2278648
+      "origem": "versoes/AvulsoIA-1.6.1.html",
+      "sha256": "d1410d288628b286270eb6e4a47a74a95ecc52bce965dfc2fbb95d47496b5c5e",
+      "tamanho": 2278943
     },
     {
       "caminho": "avulsoia.pyw",
-      "origem": "programa/1.5.0/avulsoia.pyw",
-      "sha256": "40d43a2c8b768e824297da43eabbb7791895f52c5ee8ebcdc93b767fac27b30c",
-      "tamanho": 38930
+      "origem": "programa/1.6.1/avulsoia.pyw",
+      "sha256": "6467043abc7d4ef5cee284a46a7d86594b68b973a863173f5db3f9a874a1e669",
+      "tamanho": 39135
     },
     {
       "caminho": "avulsoia.ico",
@@ -25,10 +25,10 @@
       "tamanho": 70537
     }
   ],
-  "janela": 1,
-  "arquivo": "AvulsoIA-1.6.0.html",
-  "sha256": "c035648f0a1f676cb1290fefb54ead4cc07eadf67537d715e6afc048b429f79a",
-  "tamanho": 2278648,
+  "janela": 2,
+  "arquivo": "AvulsoIA-1.6.1.html",
+  "sha256": "d1410d288628b286270eb6e4a47a74a95ecc52bce965dfc2fbb95d47496b5c5e",
+  "tamanho": 2278943,
   "icone": {
     "arquivo": "versoes/avulsoia-1.3.2.ico",
     "sha256": "4e75017b80e24aaebd287884fa3e77ed049f4616aa5dbabe235871cd465b2e67",
