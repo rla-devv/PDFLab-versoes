@@ -1,15 +1,15 @@
 {
-  "versao": "1.10.0",
+  "versao": "1.11.0",
   "novidades": [
-    "Nova ferramenta: Preencher PDF. Digite direto nos campos de formulários em PDF (texto, caixas de marcar, opções e listas) e salve preenchido."
+    "Novas ferramentas: Proteger com senha (criptografia forte, com opção de impedir cópia e impressão) e Desbloquear PDF (tira a senha, se você souber, e as restrições)."
   ],
   "data": "2026-10-19",
   "arquivos": [
     {
       "caminho": "AvulsoIA-editorPDF.html",
-      "origem": "versoes/AvulsoIA-1.10.0.html",
-      "sha256": "41e015079aa4573c57ee27c2369517775b0e959d2f23769acf6a7386547ffdcc",
-      "tamanho": 2370027
+      "origem": "versoes/AvulsoIA-1.11.0.html",
+      "sha256": "139b51209f7a9b3bd840398ecace8a55723cdf57b5bd11fdc0d02f16614ffd98",
+      "tamanho": 3010985
     },
     {
       "caminho": "avulsoia.pyw",
@@ -25,9 +25,9 @@
     }
   ],
   "janela": 2,
-  "arquivo": "AvulsoIA-1.10.0.html",
-  "sha256": "41e015079aa4573c57ee27c2369517775b0e959d2f23769acf6a7386547ffdcc",
-  "tamanho": 2370027,
+  "arquivo": "AvulsoIA-1.11.0.html",
+  "sha256": "139b51209f7a9b3bd840398ecace8a55723cdf57b5bd11fdc0d02f16614ffd98",
+  "tamanho": 3010985,
   "icone": {
     "arquivo": "versoes/avulsoia-1.3.2.ico",
     "sha256": "4e75017b80e24aaebd287884fa3e77ed049f4616aa5dbabe235871cd465b2e67",
