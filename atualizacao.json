@@ -1,21 +1,24 @@
 {
-  "versao": "1.2.1",
+  "versao": "1.3.0",
   "novidades": [
-    "Novo atalho \"Abrir o Avulso IA\" dentro da pasta do app, com o ícone do Avulso IA: quem abrir a pasta sabe na hora em que clicar."
+    "Visual novo, igual ao dos outros apps da RLA.dev: cores, letras e botões padronizados, no tema claro e no escuro.",
+    "Faixa \"Nenhum arquivo é enviado para fora do seu computador\" no topo: clique em \"Saiba mais\" para ver quando a internet é usada.",
+    "O aviso de versão nova agora não interrompe: o botão do topo vira \"Nova versão\" com um ponto laranja, e você atualiza quando quiser.",
+    "No celular, o botão principal fica sempre à mão, no rodapé da tela."
   ],
   "data": "2026-10-19",
   "arquivos": [
     {
       "caminho": "AvulsoIA-editorPDF.html",
-      "origem": "versoes/AvulsoIA-1.2.1.html",
-      "sha256": "d156377e3c0cd2e27e844feb9040f8bdc03d32a204a7b952c6622d512dc1a310",
-      "tamanho": 2197432
+      "origem": "versoes/AvulsoIA-1.3.0.html",
+      "sha256": "aabfb8c0de89dfba463e171de26319717af7331cfe0c6d7705f17736251fd93e",
+      "tamanho": 2261994
     },
     {
       "caminho": "avulsoia.pyw",
-      "origem": "programa/1.2.1/avulsoia.pyw",
-      "sha256": "f5e0157d501649222de3eb07fdddd290fe8b720871e3529f95be251970228a5b",
-      "tamanho": 26007
+      "origem": "programa/1.3.0/avulsoia.pyw",
+      "sha256": "eef7680a6251f5e70f87a216ca341f29bd5ac80e8de4d0a3c86a7b7930ccea49",
+      "tamanho": 28328
     },
     {
       "caminho": "avulsoia.ico",
@@ -24,9 +27,9 @@
       "tamanho": 53000
     }
   ],
-  "arquivo": "AvulsoIA-1.2.1.html",
-  "sha256": "d156377e3c0cd2e27e844feb9040f8bdc03d32a204a7b952c6622d512dc1a310",
-  "tamanho": 2197432,
+  "arquivo": "AvulsoIA-1.3.0.html",
+  "sha256": "aabfb8c0de89dfba463e171de26319717af7331cfe0c6d7705f17736251fd93e",
+  "tamanho": 2261994,
   "icone": {
     "arquivo": "versoes/avulsoia-1.1.1.ico",
     "sha256": "1bda867c0a5ed7bfad643b796b76d48a8580db413d60cbb8c4f59729b8611d28",
