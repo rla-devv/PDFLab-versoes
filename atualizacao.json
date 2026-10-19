@@ -1,12 +1,33 @@
 {
-  "versao": "1.1.1",
-  "arquivo": "AvulsoIA-1.1.1.html",
-  "sha256": "2ac72600b0b34ba18476897cad904225b9d0b7a3e60c70e41ecb263868508dd3",
-  "tamanho": 2197432,
+  "versao": "1.2.0",
   "novidades": [
-    "O botão de tema agora mostra o tema em uso, como nos outros apps da RLA.dev: sol no tema claro e lua no tema escuro."
+    "Instalação muito mais simples: o pacote agora tem um arquivo só, o instalar.bat. Ele não precisa de Python no computador: baixa tudo sozinho, sempre na versão mais nova, confere cada arquivo e abre o Avulso IA no fim.",
+    "As atualizações agora também melhoram a parte da janela (não só a página), sempre perguntando antes e guardando a versão anterior."
   ],
   "data": "2026-10-19",
+  "arquivos": [
+    {
+      "caminho": "AvulsoIA-editorPDF.html",
+      "origem": "versoes/AvulsoIA-1.2.0.html",
+      "sha256": "9808cf5bdf6f55b185087ae6466384af351784031190b4840b8c2d549390dbfa",
+      "tamanho": 2197432
+    },
+    {
+      "caminho": "avulsoia.pyw",
+      "origem": "programa/1.2.0/avulsoia.pyw",
+      "sha256": "7bb415ba210a6e0b8a186a06fc78494fe0651e5db31023f0a385beabb203ceb9",
+      "tamanho": 25139
+    },
+    {
+      "caminho": "avulsoia.ico",
+      "origem": "programa/1.2.0/avulsoia.ico",
+      "sha256": "1bda867c0a5ed7bfad643b796b76d48a8580db413d60cbb8c4f59729b8611d28",
+      "tamanho": 53000
+    }
+  ],
+  "arquivo": "AvulsoIA-1.2.0.html",
+  "sha256": "9808cf5bdf6f55b185087ae6466384af351784031190b4840b8c2d549390dbfa",
+  "tamanho": 2197432,
   "icone": {
     "arquivo": "versoes/avulsoia-1.1.1.ico",
     "sha256": "1bda867c0a5ed7bfad643b796b76d48a8580db413d60cbb8c4f59729b8611d28",
