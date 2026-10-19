@@ -1,21 +1,21 @@
 {
-  "versao": "1.3.2",
+  "versao": "1.3.3",
   "novidades": [
-    "Ícone do Avulso IA no mesmo tamanho dos outros apps da RLA.dev: ele preenche o quadro do atalho e da barra de tarefas."
+    "Buscar atualização: o resultado agora aparece numa janelinha clara (por exemplo, \"Você já está na versão mais recente\"), e o botão mostra \"Procurando…\" enquanto verifica."
   ],
   "data": "2026-10-19",
   "arquivos": [
     {
       "caminho": "AvulsoIA-editorPDF.html",
-      "origem": "versoes/AvulsoIA-1.3.2.html",
-      "sha256": "78283f9c45cd9b7b3f0abaedf0aaac10dde3c40dd5d26b84caf4b9a8ca4057d9",
-      "tamanho": 2265658
+      "origem": "versoes/AvulsoIA-1.3.3.html",
+      "sha256": "c1c2746a5313e8c658c9ac1292d17a8035dbb887934b6aa9ad566b936f7b244f",
+      "tamanho": 2267097
     },
     {
       "caminho": "avulsoia.pyw",
-      "origem": "programa/1.3.1/avulsoia.pyw",
-      "sha256": "d8395b63afec439496144c420f881dd9a0abdeea3c1a8261e6dc0daf4d448397",
-      "tamanho": 28793
+      "origem": "programa/1.3.3/avulsoia.pyw",
+      "sha256": "fddc94b8a138be6738f0683e376252e2feeb23a92eba20342e9346775d08fbf4",
+      "tamanho": 28937
     },
     {
       "caminho": "avulsoia.ico",
@@ -24,9 +24,9 @@
       "tamanho": 70537
     }
   ],
-  "arquivo": "AvulsoIA-1.3.2.html",
-  "sha256": "78283f9c45cd9b7b3f0abaedf0aaac10dde3c40dd5d26b84caf4b9a8ca4057d9",
-  "tamanho": 2265658,
+  "arquivo": "AvulsoIA-1.3.3.html",
+  "sha256": "c1c2746a5313e8c658c9ac1292d17a8035dbb887934b6aa9ad566b936f7b244f",
+  "tamanho": 2267097,
   "icone": {
     "arquivo": "versoes/avulsoia-1.3.2.ico",
     "sha256": "4e75017b80e24aaebd287884fa3e77ed049f4616aa5dbabe235871cd465b2e67",
