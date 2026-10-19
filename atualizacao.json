@@ -1,16 +1,16 @@
 {
-  "versao": "1.7.0",
+  "versao": "1.8.0",
   "novidades": [
-    "Nova ferramenta: Pesquisar em PDFs. Ache palavras em um ou vários PDFs (sem se preocupar com acentos) e baixe com os trechos marcados.",
-    "Nova ferramenta: Tornar PDF preenchível. Desenhe campos de texto e caixas de marcar para a pessoa preencher no próprio PDF."
+    "Novas ferramentas: Papel timbrado, Cortar margens, Cortar páginas ao meio, Mudar tamanho da página, Páginas por folha (com livreto) e Achatar e limpar PDF.",
+    "Imagens para PDF: agora dá para pôr 2 ou 4 fotos em cada folha (ex.: frente e verso do RG numa folha só)."
   ],
   "data": "2026-10-19",
   "arquivos": [
     {
       "caminho": "AvulsoIA-editorPDF.html",
-      "origem": "versoes/AvulsoIA-1.7.0.html",
-      "sha256": "41a14d793bed56f6c85574dab908738e6a77d04a93992e9f5c2a952cc8339000",
-      "tamanho": 2300956
+      "origem": "versoes/AvulsoIA-1.8.0.html",
+      "sha256": "2d1f287a45bc36b7d94a7e0e3962ea93cacd0a4c12cb83782dc1299893ea66f1",
+      "tamanho": 2335328
     },
     {
       "caminho": "avulsoia.pyw",
@@ -26,9 +26,9 @@
     }
   ],
   "janela": 2,
-  "arquivo": "AvulsoIA-1.7.0.html",
-  "sha256": "41a14d793bed56f6c85574dab908738e6a77d04a93992e9f5c2a952cc8339000",
-  "tamanho": 2300956,
+  "arquivo": "AvulsoIA-1.8.0.html",
+  "sha256": "2d1f287a45bc36b7d94a7e0e3962ea93cacd0a4c12cb83782dc1299893ea66f1",
+  "tamanho": 2335328,
   "icone": {
     "arquivo": "versoes/avulsoia-1.3.2.ico",
     "sha256": "4e75017b80e24aaebd287884fa3e77ed049f4616aa5dbabe235871cd465b2e67",
