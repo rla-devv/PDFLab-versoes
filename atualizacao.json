@@ -1,15 +1,15 @@
 {
-  "versao": "1.3.3",
+  "versao": "1.4.0",
   "novidades": [
-    "Buscar atualização: o resultado agora aparece numa janelinha clara (por exemplo, \"Você já está na versão mais recente\"), e o botão mostra \"Procurando…\" enquanto verifica."
+    "Prévia do arquivo escolhido: na tela inicial aparece a miniatura, o número de páginas e o tamanho, e o botão \"Ver prévia\" mostra as páginas em tamanho grande antes de você escolher o que fazer."
   ],
   "data": "2026-10-19",
   "arquivos": [
     {
       "caminho": "AvulsoIA-editorPDF.html",
-      "origem": "versoes/AvulsoIA-1.3.3.html",
-      "sha256": "c1c2746a5313e8c658c9ac1292d17a8035dbb887934b6aa9ad566b936f7b244f",
-      "tamanho": 2267097
+      "origem": "versoes/AvulsoIA-1.4.0.html",
+      "sha256": "f10e910e660a3fcb441ce0b3bb79e01237e88b19eb0b254824c5f8a7699f4cb7",
+      "tamanho": 2273592
     },
     {
       "caminho": "avulsoia.pyw",
@@ -24,9 +24,9 @@
       "tamanho": 70537
     }
   ],
-  "arquivo": "AvulsoIA-1.3.3.html",
-  "sha256": "c1c2746a5313e8c658c9ac1292d17a8035dbb887934b6aa9ad566b936f7b244f",
-  "tamanho": 2267097,
+  "arquivo": "AvulsoIA-1.4.0.html",
+  "sha256": "f10e910e660a3fcb441ce0b3bb79e01237e88b19eb0b254824c5f8a7699f4cb7",
+  "tamanho": 2273592,
   "icone": {
     "arquivo": "versoes/avulsoia-1.3.2.ico",
     "sha256": "4e75017b80e24aaebd287884fa3e77ed049f4616aa5dbabe235871cd465b2e67",
