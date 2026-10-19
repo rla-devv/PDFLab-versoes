@@ -1,15 +1,16 @@
 {
-  "versao": "1.5.1",
+  "versao": "1.6.0",
   "novidades": [
-    "Organizar páginas: novos botões Desfazer e Refazer (ou Ctrl+Z e Ctrl+Y) para voltar uma página arrastada, girada, duplicada ou apagada."
+    "Desfazer e Refazer (ou Ctrl+Z e Ctrl+Y) agora também em Juntar, Dividir, Extrair, Girar, Imagens para PDF e Editar e assinar.",
+    "No Editar e assinar, o Desfazer agora também volta o que foi movido, apagado ou mudado de cor e tamanho."
   ],
   "data": "2026-10-19",
   "arquivos": [
     {
       "caminho": "AvulsoIA-editorPDF.html",
-      "origem": "versoes/AvulsoIA-1.5.1.html",
-      "sha256": "a55326dabd1db56470de5afdb876b75563cce1a849cbc3a5166c1540490a0049",
-      "tamanho": 2276513
+      "origem": "versoes/AvulsoIA-1.6.0.html",
+      "sha256": "c035648f0a1f676cb1290fefb54ead4cc07eadf67537d715e6afc048b429f79a",
+      "tamanho": 2278648
     },
     {
       "caminho": "avulsoia.pyw",
@@ -25,9 +26,9 @@
     }
   ],
   "janela": 1,
-  "arquivo": "AvulsoIA-1.5.1.html",
-  "sha256": "a55326dabd1db56470de5afdb876b75563cce1a849cbc3a5166c1540490a0049",
-  "tamanho": 2276513,
+  "arquivo": "AvulsoIA-1.6.0.html",
+  "sha256": "c035648f0a1f676cb1290fefb54ead4cc07eadf67537d715e6afc048b429f79a",
+  "tamanho": 2278648,
   "icone": {
     "arquivo": "versoes/avulsoia-1.3.2.ico",
     "sha256": "4e75017b80e24aaebd287884fa3e77ed049f4616aa5dbabe235871cd465b2e67",
