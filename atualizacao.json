@@ -1,15 +1,15 @@
 {
-  "versao": "1.12.0",
+  "versao": "1.13.0",
   "novidades": [
-    "Fotos do iPhone (HEIC) agora funcionam no Imagens para PDF e no Juntar PDFs."
+    "Nova ferramenta: Reconhecer texto (OCR). Lê o texto de PDFs escaneados e fotos de documentos, em português, sem internet. Gera um PDF em que dá para copiar e pesquisar o texto, ou um arquivo .txt."
   ],
   "data": "2026-10-19",
   "arquivos": [
     {
       "caminho": "AvulsoIA-editorPDF.html",
-      "origem": "versoes/AvulsoIA-1.12.0.html",
-      "sha256": "f56ba67404c01da160f3b646a87663964c1c0db14b440c034a0d491702d017d7",
-      "tamanho": 3558740
+      "origem": "versoes/AvulsoIA-1.13.0.html",
+      "sha256": "bcf45237f4cf3f22d62e80e4f94bb559780f9bddefe5e006daf96a15169200b3",
+      "tamanho": 6961481
     },
     {
       "caminho": "avulsoia.pyw",
@@ -25,9 +25,9 @@
     }
   ],
   "janela": 2,
-  "arquivo": "AvulsoIA-1.12.0.html",
-  "sha256": "f56ba67404c01da160f3b646a87663964c1c0db14b440c034a0d491702d017d7",
-  "tamanho": 3558740,
+  "arquivo": "AvulsoIA-1.13.0.html",
+  "sha256": "bcf45237f4cf3f22d62e80e4f94bb559780f9bddefe5e006daf96a15169200b3",
+  "tamanho": 6961481,
   "icone": {
     "arquivo": "versoes/avulsoia-1.3.2.ico",
     "sha256": "4e75017b80e24aaebd287884fa3e77ed049f4616aa5dbabe235871cd465b2e67",
