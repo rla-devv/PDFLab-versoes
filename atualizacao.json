@@ -1,22 +1,21 @@
 {
-  "versao": "1.2.0",
+  "versao": "1.2.1",
   "novidades": [
-    "Instalação muito mais simples: o pacote agora tem um arquivo só, o instalar.bat. Ele não precisa de Python no computador: baixa tudo sozinho, sempre na versão mais nova, confere cada arquivo e abre o Avulso IA no fim.",
-    "As atualizações agora também melhoram a parte da janela (não só a página), sempre perguntando antes e guardando a versão anterior."
+    "Novo atalho \"Abrir o Avulso IA\" dentro da pasta do app, com o ícone do Avulso IA: quem abrir a pasta sabe na hora em que clicar."
   ],
   "data": "2026-10-19",
   "arquivos": [
     {
       "caminho": "AvulsoIA-editorPDF.html",
-      "origem": "versoes/AvulsoIA-1.2.0.html",
-      "sha256": "9808cf5bdf6f55b185087ae6466384af351784031190b4840b8c2d549390dbfa",
+      "origem": "versoes/AvulsoIA-1.2.1.html",
+      "sha256": "d156377e3c0cd2e27e844feb9040f8bdc03d32a204a7b952c6622d512dc1a310",
       "tamanho": 2197432
     },
     {
       "caminho": "avulsoia.pyw",
-      "origem": "programa/1.2.0/avulsoia.pyw",
-      "sha256": "7bb415ba210a6e0b8a186a06fc78494fe0651e5db31023f0a385beabb203ceb9",
-      "tamanho": 25139
+      "origem": "programa/1.2.1/avulsoia.pyw",
+      "sha256": "f5e0157d501649222de3eb07fdddd290fe8b720871e3529f95be251970228a5b",
+      "tamanho": 26007
     },
     {
       "caminho": "avulsoia.ico",
@@ -25,8 +24,8 @@
       "tamanho": 53000
     }
   ],
-  "arquivo": "AvulsoIA-1.2.0.html",
-  "sha256": "9808cf5bdf6f55b185087ae6466384af351784031190b4840b8c2d549390dbfa",
+  "arquivo": "AvulsoIA-1.2.1.html",
+  "sha256": "d156377e3c0cd2e27e844feb9040f8bdc03d32a204a7b952c6622d512dc1a310",
   "tamanho": 2197432,
   "icone": {
     "arquivo": "versoes/avulsoia-1.1.1.ico",
