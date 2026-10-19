@@ -1,10 +1,16 @@
 {
-  "versao": "1.0.0",
-  "arquivo": "AvulsoIA-1.0.0.html",
-  "sha256": "88654f55c08c85265a0ea91d004f9bfda11fa38fc7391cae39ae55dad11f3cfc",
-  "tamanho": 2197501,
+  "versao": "1.1.0",
+  "arquivo": "AvulsoIA-1.1.0.html",
+  "sha256": "c18be607589ca3d070298d3250971ebd99c4ab60e758822375530549d765aada",
+  "tamanho": 2197220,
   "novidades": [
-    "Primeira versão do Avulso IA: juntar, dividir, organizar, girar, extrair, editar e assinar, tarja definitiva, numerar páginas, marca d'água, comprimir e converter PDFs, tudo sem internet."
+    "Ícone novo, com \"PDF\" no centro: no topo do app, na aba, no atalho e na barra de tarefas do Windows.",
+    "Atualização pelo próprio app: ele avisa quando houver versão nova e só instala com a sua confirmação. Também dá para verificar pelo botão \"Buscar atualização\"."
   ],
-  "data": "2026-10-19"
+  "data": "2026-10-19",
+  "icone": {
+    "arquivo": "versoes/avulsoia-1.1.0.ico",
+    "sha256": "1bda867c0a5ed7bfad643b796b76d48a8580db413d60cbb8c4f59729b8611d28",
+    "tamanho": 53000
+  }
 }
