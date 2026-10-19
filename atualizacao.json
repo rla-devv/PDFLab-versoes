@@ -1,15 +1,15 @@
 {
-  "versao": "1.11.0",
+  "versao": "1.12.0",
   "novidades": [
-    "Novas ferramentas: Proteger com senha (criptografia forte, com opção de impedir cópia e impressão) e Desbloquear PDF (tira a senha, se você souber, e as restrições)."
+    "Fotos do iPhone (HEIC) agora funcionam no Imagens para PDF e no Juntar PDFs."
   ],
   "data": "2026-10-19",
   "arquivos": [
     {
       "caminho": "AvulsoIA-editorPDF.html",
-      "origem": "versoes/AvulsoIA-1.11.0.html",
-      "sha256": "139b51209f7a9b3bd840398ecace8a55723cdf57b5bd11fdc0d02f16614ffd98",
-      "tamanho": 3010985
+      "origem": "versoes/AvulsoIA-1.12.0.html",
+      "sha256": "f56ba67404c01da160f3b646a87663964c1c0db14b440c034a0d491702d017d7",
+      "tamanho": 3558740
     },
     {
       "caminho": "avulsoia.pyw",
@@ -25,9 +25,9 @@
     }
   ],
   "janela": 2,
-  "arquivo": "AvulsoIA-1.11.0.html",
-  "sha256": "139b51209f7a9b3bd840398ecace8a55723cdf57b5bd11fdc0d02f16614ffd98",
-  "tamanho": 3010985,
+  "arquivo": "AvulsoIA-1.12.0.html",
+  "sha256": "f56ba67404c01da160f3b646a87663964c1c0db14b440c034a0d491702d017d7",
+  "tamanho": 3558740,
   "icone": {
     "arquivo": "versoes/avulsoia-1.3.2.ico",
     "sha256": "4e75017b80e24aaebd287884fa3e77ed049f4616aa5dbabe235871cd465b2e67",
