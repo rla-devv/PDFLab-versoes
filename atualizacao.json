@@ -1,15 +1,15 @@
 {
-  "versao": "1.3.1",
+  "versao": "1.3.2",
   "novidades": [
-    "O atalho dentro da pasta do app agora se chama \"Abrir Avulso IA\", e a mensagem do fim da instalação mostra onde ele fica."
+    "Ícone do Avulso IA no mesmo tamanho dos outros apps da RLA.dev: ele preenche o quadro do atalho e da barra de tarefas."
   ],
   "data": "2026-10-19",
   "arquivos": [
     {
       "caminho": "AvulsoIA-editorPDF.html",
-      "origem": "versoes/AvulsoIA-1.3.1.html",
-      "sha256": "c14215f52bd2bcc294a5e5c0c59b87e52a40a1d86099804e3448297490383af0",
-      "tamanho": 2261994
+      "origem": "versoes/AvulsoIA-1.3.2.html",
+      "sha256": "78283f9c45cd9b7b3f0abaedf0aaac10dde3c40dd5d26b84caf4b9a8ca4057d9",
+      "tamanho": 2265658
     },
     {
       "caminho": "avulsoia.pyw",
@@ -19,17 +19,17 @@
     },
     {
       "caminho": "avulsoia.ico",
-      "origem": "programa/1.2.0/avulsoia.ico",
-      "sha256": "1bda867c0a5ed7bfad643b796b76d48a8580db413d60cbb8c4f59729b8611d28",
-      "tamanho": 53000
+      "origem": "programa/1.3.2/avulsoia.ico",
+      "sha256": "4e75017b80e24aaebd287884fa3e77ed049f4616aa5dbabe235871cd465b2e67",
+      "tamanho": 70537
     }
   ],
-  "arquivo": "AvulsoIA-1.3.1.html",
-  "sha256": "c14215f52bd2bcc294a5e5c0c59b87e52a40a1d86099804e3448297490383af0",
-  "tamanho": 2261994,
+  "arquivo": "AvulsoIA-1.3.2.html",
+  "sha256": "78283f9c45cd9b7b3f0abaedf0aaac10dde3c40dd5d26b84caf4b9a8ca4057d9",
+  "tamanho": 2265658,
   "icone": {
-    "arquivo": "versoes/avulsoia-1.1.1.ico",
-    "sha256": "1bda867c0a5ed7bfad643b796b76d48a8580db413d60cbb8c4f59729b8611d28",
-    "tamanho": 53000
+    "arquivo": "versoes/avulsoia-1.3.2.ico",
+    "sha256": "4e75017b80e24aaebd287884fa3e77ed049f4616aa5dbabe235871cd465b2e67",
+    "tamanho": 70537
   }
 }
