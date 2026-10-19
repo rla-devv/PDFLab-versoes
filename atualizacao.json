@@ -1,16 +1,16 @@
 {
-  "versao": "1.6.1",
+  "versao": "1.7.0",
   "novidades": [
-    "Corrige a atualização que deixava o botão \"Nova versão\" travado, sem recarregar a tela.",
-    "Depois desta atualização, feche o Avulso IA e abra de novo uma vez para concluir."
+    "Nova ferramenta: Pesquisar em PDFs. Ache palavras em um ou vários PDFs (sem se preocupar com acentos) e baixe com os trechos marcados.",
+    "Nova ferramenta: Tornar PDF preenchível. Desenhe campos de texto e caixas de marcar para a pessoa preencher no próprio PDF."
   ],
   "data": "2026-10-19",
   "arquivos": [
     {
       "caminho": "AvulsoIA-editorPDF.html",
-      "origem": "versoes/AvulsoIA-1.6.1.html",
-      "sha256": "d1410d288628b286270eb6e4a47a74a95ecc52bce965dfc2fbb95d47496b5c5e",
-      "tamanho": 2278943
+      "origem": "versoes/AvulsoIA-1.7.0.html",
+      "sha256": "41a14d793bed56f6c85574dab908738e6a77d04a93992e9f5c2a952cc8339000",
+      "tamanho": 2300956
     },
     {
       "caminho": "avulsoia.pyw",
@@ -26,9 +26,9 @@
     }
   ],
   "janela": 2,
-  "arquivo": "AvulsoIA-1.6.1.html",
-  "sha256": "d1410d288628b286270eb6e4a47a74a95ecc52bce965dfc2fbb95d47496b5c5e",
-  "tamanho": 2278943,
+  "arquivo": "AvulsoIA-1.7.0.html",
+  "sha256": "41a14d793bed56f6c85574dab908738e6a77d04a93992e9f5c2a952cc8339000",
+  "tamanho": 2300956,
   "icone": {
     "arquivo": "versoes/avulsoia-1.3.2.ico",
     "sha256": "4e75017b80e24aaebd287884fa3e77ed049f4616aa5dbabe235871cd465b2e67",
