@@ -1,15 +1,14 @@
 {
-  "versao": "1.1.0",
-  "arquivo": "AvulsoIA-1.1.0.html",
-  "sha256": "c18be607589ca3d070298d3250971ebd99c4ab60e758822375530549d765aada",
-  "tamanho": 2197220,
+  "versao": "1.1.1",
+  "arquivo": "AvulsoIA-1.1.1.html",
+  "sha256": "2ac72600b0b34ba18476897cad904225b9d0b7a3e60c70e41ecb263868508dd3",
+  "tamanho": 2197432,
   "novidades": [
-    "Ícone novo, com \"PDF\" no centro: no topo do app, na aba, no atalho e na barra de tarefas do Windows.",
-    "Atualização pelo próprio app: ele avisa quando houver versão nova e só instala com a sua confirmação. Também dá para verificar pelo botão \"Buscar atualização\"."
+    "O botão de tema agora mostra o tema em uso, como nos outros apps da RLA.dev: sol no tema claro e lua no tema escuro."
   ],
   "data": "2026-10-19",
   "icone": {
-    "arquivo": "versoes/avulsoia-1.1.0.ico",
+    "arquivo": "versoes/avulsoia-1.1.1.ico",
     "sha256": "1bda867c0a5ed7bfad643b796b76d48a8580db413d60cbb8c4f59729b8611d28",
     "tamanho": 53000
   }
