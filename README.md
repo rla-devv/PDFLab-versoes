@@ -1,16 +1,15 @@
-# Avulso IA — versões
+# PDF Lab — versões
 
-Páginas prontas do Avulso IA (edição, organização e conversão de arquivos PDF que roda no computador,
-sem internet). Desenvolvido por RLA.dev.
+Páginas prontas do PDF Lab (antes chamado Avulso IA): edição, organização e conversão de arquivos PDF que roda no
+computador, sem enviar nada para a internet.
 
-- `AvulsoIA.zip` — o Avulso IA em janela própria no Windows, para instalar pela primeira vez: tem um
-  arquivo só. Descompacte e dê dois cliques em `instalar.bat`. Não precisa de Python no computador: ele baixa
-  um Python portátil (fica só na pasta do app) e a versão mais nova do Avulso IA, confere cada arquivo, cria o
-  atalho “Avulso IA” na Área de Trabalho e no Menu Iniciar e abre o app. (`AvulsoIA-janela.zip` é o mesmo
-  pacote, no link antigo.)
-- `versoes/AvulsoIA-X.Y.Z.html` — cada versão publicada. Para usar sem instalar, baixe o arquivo e abra
-  no Google Chrome ou no Microsoft Edge. Para voltar a uma versão anterior, é só abrir o arquivo dela.
-- `programa/X.Y.Z/` — os arquivos do programa da janela (`avulsoia.pyw`, `avulsoia.ico`) que mudaram naquela versão.
+- `PDFLab.zip` — o PDF Lab no Windows, para instalar pela primeira vez: tem um `instalar.bat` que baixa
+  um Python portátil (fica só na pasta do app) e a versão mais nova do PDF Lab, confere cada arquivo, cria o
+  atalho “PDF Lab” na Área de Trabalho e no Menu Iniciar e abre o app. (`AvulsoIA.zip` e `AvulsoIA-janela.zip` são o
+  mesmo pacote, nos links antigos.)
+- `versoes/PDFLab-X.Y.Z.html` (até a 1.17.4, `versoes/AvulsoIA-X.Y.Z.html`) — cada versão publicada. Para usar sem
+  instalar, baixe o arquivo e abra no navegador.
+- `programa/X.Y.Z/` — os arquivos do programa (`pdflab.pyw`, `pdflab.ico`; antes `avulsoia.*`) que mudaram naquela versão.
 - `atualizacao.json` — a versão mais recente: número, novidades e, para cada arquivo do app, caminho, origem,
   SHA-256 e tamanho (o instalador e o próprio app conferem tudo antes de gravar).
 
