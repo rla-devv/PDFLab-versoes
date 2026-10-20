@@ -1,21 +1,22 @@
 {
-  "versao": "1.18.9",
+  "versao": "1.19.0",
   "novidades": [
-    "O instalador agora se chama \"Instalar PDF Lab.bat\", para ficar claro em que clicar."
+    "O PDF Lab agora abre sempre no tema escuro. O botão de tema continua trocando para o claro quando você quiser.",
+    "Ocupa menos espaço no computador: as atualizações guardam só a cópia da versão anterior, e o arquivo de registro (log) tem tamanho limitado."
   ],
   "data": "2026-10-20",
   "arquivos": [
     {
       "caminho": "PDFLab-editorPDF.html",
-      "origem": "versoes/PDFLab-1.18.9.html",
-      "sha256": "55f0762b74cd5671cdbb1b6bf20978a54430322f00dfe07dad898ab303423433",
-      "tamanho": 7034709
+      "origem": "versoes/PDFLab-1.19.0.html",
+      "sha256": "2aa9ecbfca016ca85113ea81a4b2ab589b8c17bdbb18f6ac484ae25d4ce2dfbc",
+      "tamanho": 7034647
     },
     {
       "caminho": "pdflab.pyw",
-      "origem": "programa/1.18.9/pdflab.pyw",
-      "sha256": "cc09c9f92f93ee8b0c92c4c4a5bef1435eded68caf0ea2d247153baa3aad266c",
-      "tamanho": 47151
+      "origem": "programa/1.19.0/pdflab.pyw",
+      "sha256": "d7ea5eb7002374b6c130b25b71e01156f7a63ab481aa02550f6ea6405e994ab4",
+      "tamanho": 48101
     },
     {
       "caminho": "pdflab.ico",
@@ -25,9 +26,9 @@
     },
     {
       "caminho": "avulsoia.pyw",
-      "origem": "programa/1.18.9/pdflab.pyw",
-      "sha256": "cc09c9f92f93ee8b0c92c4c4a5bef1435eded68caf0ea2d247153baa3aad266c",
-      "tamanho": 47151
+      "origem": "programa/1.19.0/pdflab.pyw",
+      "sha256": "d7ea5eb7002374b6c130b25b71e01156f7a63ab481aa02550f6ea6405e994ab4",
+      "tamanho": 48101
     },
     {
       "caminho": "avulsoia.ico",
@@ -37,16 +38,16 @@
     },
     {
       "caminho": "AvulsoIA-editorPDF.html",
-      "origem": "versoes/PDFLab-1.18.9.html",
-      "sha256": "55f0762b74cd5671cdbb1b6bf20978a54430322f00dfe07dad898ab303423433",
-      "tamanho": 7034709,
+      "origem": "versoes/PDFLab-1.19.0.html",
+      "sha256": "2aa9ecbfca016ca85113ea81a4b2ab589b8c17bdbb18f6ac484ae25d4ce2dfbc",
+      "tamanho": 7034647,
       "legado": true
     }
   ],
   "janela": 4,
-  "arquivo": "PDFLab-1.18.9.html",
-  "sha256": "55f0762b74cd5671cdbb1b6bf20978a54430322f00dfe07dad898ab303423433",
-  "tamanho": 7034709,
+  "arquivo": "PDFLab-1.19.0.html",
+  "sha256": "2aa9ecbfca016ca85113ea81a4b2ab589b8c17bdbb18f6ac484ae25d4ce2dfbc",
+  "tamanho": 7034647,
   "icone": {
     "arquivo": "versoes/avulsoia-1.3.2.ico",
     "sha256": "4e75017b80e24aaebd287884fa3e77ed049f4616aa5dbabe235871cd465b2e67",
