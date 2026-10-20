@@ -1,16 +1,15 @@
 {
-  "versao": "1.18.0",
+  "versao": "1.18.1",
   "novidades": [
-    "O Avulso IA agora se chama PDF Lab: nome novo para deixar claro o que ele faz. As ferramentas e os seus arquivos continuam iguais.",
-    "Ao instalar, o app fecha e abre sozinho: a pasta e os atalhos passam a se chamar \"PDF Lab\"."
+    "Novo texto no \"Apoie o projeto\"."
   ],
   "data": "2026-10-20",
   "arquivos": [
     {
       "caminho": "PDFLab-editorPDF.html",
-      "origem": "versoes/PDFLab-1.18.0.html",
-      "sha256": "f338d25b1ac7a161c1b4556040bf6106f63367cf4f5b4c5e57275e9f199ca962",
-      "tamanho": 7022942
+      "origem": "versoes/PDFLab-1.18.1.html",
+      "sha256": "6f6285ff0e84e39345216f32e0f9f33fa89cbef376daf65ddf65be80828f32c9",
+      "tamanho": 7022904
     },
     {
       "caminho": "pdflab.pyw",
@@ -38,16 +37,16 @@
     },
     {
       "caminho": "AvulsoIA-editorPDF.html",
-      "origem": "versoes/PDFLab-1.18.0.html",
-      "sha256": "f338d25b1ac7a161c1b4556040bf6106f63367cf4f5b4c5e57275e9f199ca962",
-      "tamanho": 7022942,
+      "origem": "versoes/PDFLab-1.18.1.html",
+      "sha256": "6f6285ff0e84e39345216f32e0f9f33fa89cbef376daf65ddf65be80828f32c9",
+      "tamanho": 7022904,
       "legado": true
     }
   ],
   "janela": 4,
-  "arquivo": "PDFLab-1.18.0.html",
-  "sha256": "f338d25b1ac7a161c1b4556040bf6106f63367cf4f5b4c5e57275e9f199ca962",
-  "tamanho": 7022942,
+  "arquivo": "PDFLab-1.18.1.html",
+  "sha256": "6f6285ff0e84e39345216f32e0f9f33fa89cbef376daf65ddf65be80828f32c9",
+  "tamanho": 7022904,
   "icone": {
     "arquivo": "versoes/avulsoia-1.3.2.ico",
     "sha256": "4e75017b80e24aaebd287884fa3e77ed049f4616aa5dbabe235871cd465b2e67",
