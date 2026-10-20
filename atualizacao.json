@@ -1,15 +1,15 @@
 {
-  "versao": "1.19.2",
+  "versao": "1.19.3",
   "novidades": [
-    "\"Apoie o projeto\" com o texto em letra menor."
+    "Comprimir: \"Imagens em preto e branco\" virou \"Preto e branco\" e agora deixa o PDF inteiro em tons de cinza (textos e linhas coloridas também), em todos os níveis, inclusive no Leve. O texto continua selecionável."
   ],
   "data": "2026-10-20",
   "arquivos": [
     {
       "caminho": "PDFLab-editorPDF.html",
-      "origem": "versoes/PDFLab-1.19.2.html",
-      "sha256": "6c38c31181ba016e6d3b81736fcc8658a93a9f80d0dbfab810349d6f6ba59e28",
-      "tamanho": 7034572
+      "origem": "versoes/PDFLab-1.19.3.html",
+      "sha256": "f96e11a2094e4b164ae5098ffa7754c03d6a769569179045b1a651f6770e6e95",
+      "tamanho": 7043022
     },
     {
       "caminho": "pdflab.pyw",
@@ -37,16 +37,16 @@
     },
     {
       "caminho": "AvulsoIA-editorPDF.html",
-      "origem": "versoes/PDFLab-1.19.2.html",
-      "sha256": "6c38c31181ba016e6d3b81736fcc8658a93a9f80d0dbfab810349d6f6ba59e28",
-      "tamanho": 7034572,
+      "origem": "versoes/PDFLab-1.19.3.html",
+      "sha256": "f96e11a2094e4b164ae5098ffa7754c03d6a769569179045b1a651f6770e6e95",
+      "tamanho": 7043022,
       "legado": true
     }
   ],
   "janela": 4,
-  "arquivo": "PDFLab-1.19.2.html",
-  "sha256": "6c38c31181ba016e6d3b81736fcc8658a93a9f80d0dbfab810349d6f6ba59e28",
-  "tamanho": 7034572,
+  "arquivo": "PDFLab-1.19.3.html",
+  "sha256": "f96e11a2094e4b164ae5098ffa7754c03d6a769569179045b1a651f6770e6e95",
+  "tamanho": 7043022,
   "icone": {
     "arquivo": "versoes/avulsoia-1.3.2.ico",
     "sha256": "4e75017b80e24aaebd287884fa3e77ed049f4616aa5dbabe235871cd465b2e67",
