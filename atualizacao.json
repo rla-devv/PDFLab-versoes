@@ -1,33 +1,53 @@
 {
-  "versao": "1.17.4",
+  "versao": "1.18.0",
   "novidades": [
-    "Corrige a página \"Arquivo não encontrado\" que aparecia depois de atualizar o Avulso IA. Ao instalar esta versão, o app fecha e abre sozinho uma vez."
+    "O Avulso IA agora se chama PDF Lab: nome novo para deixar claro o que ele faz. As ferramentas e os seus arquivos continuam iguais.",
+    "Ao instalar, o app fecha e abre sozinho: a pasta e os atalhos passam a se chamar \"PDF Lab\"."
   ],
   "data": "2026-10-20",
   "arquivos": [
     {
-      "caminho": "AvulsoIA-editorPDF.html",
-      "origem": "versoes/AvulsoIA-1.17.4.html",
-      "sha256": "9de5d08904a55e704bbbefaf2a13495938c4160a7a885937625bc4495d29417e",
-      "tamanho": 7022639
+      "caminho": "PDFLab-editorPDF.html",
+      "origem": "versoes/PDFLab-1.18.0.html",
+      "sha256": "f338d25b1ac7a161c1b4556040bf6106f63367cf4f5b4c5e57275e9f199ca962",
+      "tamanho": 7022942
+    },
+    {
+      "caminho": "pdflab.pyw",
+      "origem": "programa/1.18.0/pdflab.pyw",
+      "sha256": "c58a2d92682fa84c49ed395185ff60708c641e6a11d70a22bcc8958385409530",
+      "tamanho": 47013
+    },
+    {
+      "caminho": "pdflab.ico",
+      "origem": "programa/1.18.0/pdflab.ico",
+      "sha256": "4e75017b80e24aaebd287884fa3e77ed049f4616aa5dbabe235871cd465b2e67",
+      "tamanho": 70537
     },
     {
       "caminho": "avulsoia.pyw",
-      "origem": "programa/1.17.4/avulsoia.pyw",
-      "sha256": "747fef61f7fcfe9e5ab5f263be3ffeec40c58c50da69812e225a4849dcebfab3",
-      "tamanho": 41663
+      "origem": "programa/1.18.0/pdflab.pyw",
+      "sha256": "c58a2d92682fa84c49ed395185ff60708c641e6a11d70a22bcc8958385409530",
+      "tamanho": 47013
     },
     {
       "caminho": "avulsoia.ico",
-      "origem": "programa/1.3.2/avulsoia.ico",
+      "origem": "programa/1.18.0/pdflab.ico",
       "sha256": "4e75017b80e24aaebd287884fa3e77ed049f4616aa5dbabe235871cd465b2e67",
       "tamanho": 70537
+    },
+    {
+      "caminho": "AvulsoIA-editorPDF.html",
+      "origem": "versoes/PDFLab-1.18.0.html",
+      "sha256": "f338d25b1ac7a161c1b4556040bf6106f63367cf4f5b4c5e57275e9f199ca962",
+      "tamanho": 7022942,
+      "legado": true
     }
   ],
-  "janela": 3,
-  "arquivo": "AvulsoIA-1.17.4.html",
-  "sha256": "9de5d08904a55e704bbbefaf2a13495938c4160a7a885937625bc4495d29417e",
-  "tamanho": 7022639,
+  "janela": 4,
+  "arquivo": "PDFLab-1.18.0.html",
+  "sha256": "f338d25b1ac7a161c1b4556040bf6106f63367cf4f5b4c5e57275e9f199ca962",
+  "tamanho": 7022942,
   "icone": {
     "arquivo": "versoes/avulsoia-1.3.2.ico",
     "sha256": "4e75017b80e24aaebd287884fa3e77ed049f4616aa5dbabe235871cd465b2e67",
