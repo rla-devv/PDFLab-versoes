@@ -1,15 +1,17 @@
 {
-  "versao": "1.18.2",
+  "versao": "1.18.3",
   "novidades": [
-    "\"Comprimir PDF\" agora fica logo no começo, em Organizar, junto de Juntar e Dividir, e aparece também quando você procura por \"compactar\" ou \"reduzir\"."
+    "Comprimir PDF ficou mais esperto: nos níveis Recomendada e Máxima, diminui só as imagens de dentro do PDF. O texto continua nítido e dá para selecionar e copiar.",
+    "Nunca entrega um arquivo maior que o original: se não dá para diminuir, ele avisa e explica por quê.",
+    "A prévia mostra o tamanho exato que o arquivo vai ter."
   ],
   "data": "2026-10-20",
   "arquivos": [
     {
       "caminho": "PDFLab-editorPDF.html",
-      "origem": "versoes/PDFLab-1.18.2.html",
-      "sha256": "839296b9161bb22a4f072d6f78f765a94f96c6325bb7c14659b214e3cb096a38",
-      "tamanho": 7022987
+      "origem": "versoes/PDFLab-1.18.3.html",
+      "sha256": "de65157064fd66375ea4ca7a86e1717a16f49cb5d2255984a3dc93d4e6305b5e",
+      "tamanho": 7031442
     },
     {
       "caminho": "pdflab.pyw",
@@ -37,16 +39,16 @@
     },
     {
       "caminho": "AvulsoIA-editorPDF.html",
-      "origem": "versoes/PDFLab-1.18.2.html",
-      "sha256": "839296b9161bb22a4f072d6f78f765a94f96c6325bb7c14659b214e3cb096a38",
-      "tamanho": 7022987,
+      "origem": "versoes/PDFLab-1.18.3.html",
+      "sha256": "de65157064fd66375ea4ca7a86e1717a16f49cb5d2255984a3dc93d4e6305b5e",
+      "tamanho": 7031442,
       "legado": true
     }
   ],
   "janela": 4,
-  "arquivo": "PDFLab-1.18.2.html",
-  "sha256": "839296b9161bb22a4f072d6f78f765a94f96c6325bb7c14659b214e3cb096a38",
-  "tamanho": 7022987,
+  "arquivo": "PDFLab-1.18.3.html",
+  "sha256": "de65157064fd66375ea4ca7a86e1717a16f49cb5d2255984a3dc93d4e6305b5e",
+  "tamanho": 7031442,
   "icone": {
     "arquivo": "versoes/avulsoia-1.3.2.ico",
     "sha256": "4e75017b80e24aaebd287884fa3e77ed049f4616aa5dbabe235871cd465b2e67",
