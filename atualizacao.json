@@ -1,5 +1,5 @@
 {
-  "versao": "1.20.2",
+  "versao": "1.20.3",
   "novidades": [
     "Correções e melhorias."
   ],
@@ -7,9 +7,9 @@
   "arquivos": [
     {
       "caminho": "PDFLab-editorPDF.html",
-      "origem": "versoes/PDFLab-1.20.2.html",
-      "sha256": "5678e3d0b5a72e57c592bfca3f4f7d731a9373249484c07bf912b37280d9dc2b",
-      "tamanho": 7047828
+      "origem": "versoes/PDFLab-1.20.3.html",
+      "sha256": "ada68c9698a8d1a589cae6e3e721f758053fc5ee0992ee05975b4876027fbc7d",
+      "tamanho": 7047850
     },
     {
       "caminho": "pdflab.pyw",
@@ -37,16 +37,16 @@
     },
     {
       "caminho": "AvulsoIA-editorPDF.html",
-      "origem": "versoes/PDFLab-1.20.2.html",
-      "sha256": "5678e3d0b5a72e57c592bfca3f4f7d731a9373249484c07bf912b37280d9dc2b",
-      "tamanho": 7047828,
+      "origem": "versoes/PDFLab-1.20.3.html",
+      "sha256": "ada68c9698a8d1a589cae6e3e721f758053fc5ee0992ee05975b4876027fbc7d",
+      "tamanho": 7047850,
       "legado": true
     }
   ],
   "janela": 4,
-  "arquivo": "PDFLab-1.20.2.html",
-  "sha256": "5678e3d0b5a72e57c592bfca3f4f7d731a9373249484c07bf912b37280d9dc2b",
-  "tamanho": 7047828,
+  "arquivo": "PDFLab-1.20.3.html",
+  "sha256": "ada68c9698a8d1a589cae6e3e721f758053fc5ee0992ee05975b4876027fbc7d",
+  "tamanho": 7047850,
   "icone": {
     "arquivo": "versoes/avulsoia-1.3.2.ico",
     "sha256": "4e75017b80e24aaebd287884fa3e77ed049f4616aa5dbabe235871cd465b2e67",
