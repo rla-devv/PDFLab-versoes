@@ -1,20 +1,20 @@
 {
-  "versao": "1.19.4",
+  "versao": "1.20.0",
   "novidades": [
-    "Busca de ferramentas melhorada e pequenos ajustes."
+    "Novo visual em tons de azul."
   ],
   "data": "2026-10-20",
   "arquivos": [
     {
       "caminho": "PDFLab-editorPDF.html",
-      "origem": "versoes/PDFLab-1.19.4.html",
-      "sha256": "2cade5bcc37088eda6dda36b6708b5e2210f7ce220b51f874df35233bca7c376",
-      "tamanho": 7045954
+      "origem": "versoes/PDFLab-1.20.0.html",
+      "sha256": "550d0ef8f76d2baf425f7c4b7e203ee5c1fdff09f53c4d936127493b3f10e225",
+      "tamanho": 7045990
     },
     {
       "caminho": "pdflab.pyw",
-      "origem": "programa/1.19.0/pdflab.pyw",
-      "sha256": "d7ea5eb7002374b6c130b25b71e01156f7a63ab481aa02550f6ea6405e994ab4",
+      "origem": "programa/1.20.0/pdflab.pyw",
+      "sha256": "4f9d4f720774edf9ae8e03ea8e63cef613563337841ec878e6daa8f3770f0e11",
       "tamanho": 48101
     },
     {
@@ -25,8 +25,8 @@
     },
     {
       "caminho": "avulsoia.pyw",
-      "origem": "programa/1.19.0/pdflab.pyw",
-      "sha256": "d7ea5eb7002374b6c130b25b71e01156f7a63ab481aa02550f6ea6405e994ab4",
+      "origem": "programa/1.20.0/pdflab.pyw",
+      "sha256": "4f9d4f720774edf9ae8e03ea8e63cef613563337841ec878e6daa8f3770f0e11",
       "tamanho": 48101
     },
     {
@@ -37,16 +37,16 @@
     },
     {
       "caminho": "AvulsoIA-editorPDF.html",
-      "origem": "versoes/PDFLab-1.19.4.html",
-      "sha256": "2cade5bcc37088eda6dda36b6708b5e2210f7ce220b51f874df35233bca7c376",
-      "tamanho": 7045954,
+      "origem": "versoes/PDFLab-1.20.0.html",
+      "sha256": "550d0ef8f76d2baf425f7c4b7e203ee5c1fdff09f53c4d936127493b3f10e225",
+      "tamanho": 7045990,
       "legado": true
     }
   ],
   "janela": 4,
-  "arquivo": "PDFLab-1.19.4.html",
-  "sha256": "2cade5bcc37088eda6dda36b6708b5e2210f7ce220b51f874df35233bca7c376",
-  "tamanho": 7045954,
+  "arquivo": "PDFLab-1.20.0.html",
+  "sha256": "550d0ef8f76d2baf425f7c4b7e203ee5c1fdff09f53c4d936127493b3f10e225",
+  "tamanho": 7045990,
   "icone": {
     "arquivo": "versoes/avulsoia-1.3.2.ico",
     "sha256": "4e75017b80e24aaebd287884fa3e77ed049f4616aa5dbabe235871cd465b2e67",
