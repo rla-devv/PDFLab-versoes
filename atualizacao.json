@@ -1,21 +1,21 @@
 {
-  "versao": "1.18.8",
+  "versao": "1.18.9",
   "novidades": [
-    "\"Apoie o projeto\" com texto mais curto."
+    "O instalador agora se chama \"Instalar PDF Lab.bat\", para ficar claro em que clicar."
   ],
   "data": "2026-10-20",
   "arquivos": [
     {
       "caminho": "PDFLab-editorPDF.html",
-      "origem": "versoes/PDFLab-1.18.8.html",
-      "sha256": "400fd92173f564e8e901044566408e5d3021ce58badd80178cded05da9c5bba2",
+      "origem": "versoes/PDFLab-1.18.9.html",
+      "sha256": "55f0762b74cd5671cdbb1b6bf20978a54430322f00dfe07dad898ab303423433",
       "tamanho": 7034709
     },
     {
       "caminho": "pdflab.pyw",
-      "origem": "programa/1.18.0/pdflab.pyw",
-      "sha256": "c58a2d92682fa84c49ed395185ff60708c641e6a11d70a22bcc8958385409530",
-      "tamanho": 47013
+      "origem": "programa/1.18.9/pdflab.pyw",
+      "sha256": "cc09c9f92f93ee8b0c92c4c4a5bef1435eded68caf0ea2d247153baa3aad266c",
+      "tamanho": 47151
     },
     {
       "caminho": "pdflab.ico",
@@ -25,9 +25,9 @@
     },
     {
       "caminho": "avulsoia.pyw",
-      "origem": "programa/1.18.0/pdflab.pyw",
-      "sha256": "c58a2d92682fa84c49ed395185ff60708c641e6a11d70a22bcc8958385409530",
-      "tamanho": 47013
+      "origem": "programa/1.18.9/pdflab.pyw",
+      "sha256": "cc09c9f92f93ee8b0c92c4c4a5bef1435eded68caf0ea2d247153baa3aad266c",
+      "tamanho": 47151
     },
     {
       "caminho": "avulsoia.ico",
@@ -37,15 +37,15 @@
     },
     {
       "caminho": "AvulsoIA-editorPDF.html",
-      "origem": "versoes/PDFLab-1.18.8.html",
-      "sha256": "400fd92173f564e8e901044566408e5d3021ce58badd80178cded05da9c5bba2",
+      "origem": "versoes/PDFLab-1.18.9.html",
+      "sha256": "55f0762b74cd5671cdbb1b6bf20978a54430322f00dfe07dad898ab303423433",
       "tamanho": 7034709,
       "legado": true
     }
   ],
   "janela": 4,
-  "arquivo": "PDFLab-1.18.8.html",
-  "sha256": "400fd92173f564e8e901044566408e5d3021ce58badd80178cded05da9c5bba2",
+  "arquivo": "PDFLab-1.18.9.html",
+  "sha256": "55f0762b74cd5671cdbb1b6bf20978a54430322f00dfe07dad898ab303423433",
   "tamanho": 7034709,
   "icone": {
     "arquivo": "versoes/avulsoia-1.3.2.ico",
