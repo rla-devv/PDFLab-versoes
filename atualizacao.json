@@ -1,17 +1,15 @@
 {
-  "versao": "1.18.3",
+  "versao": "1.18.4",
   "novidades": [
-    "Comprimir PDF ficou mais esperto: nos níveis Recomendada e Máxima, diminui só as imagens de dentro do PDF. O texto continua nítido e dá para selecionar e copiar.",
-    "Nunca entrega um arquivo maior que o original: se não dá para diminuir, ele avisa e explica por quê.",
-    "A prévia mostra o tamanho exato que o arquivo vai ter."
+    "Comprimir PDF diminui também PDFs juntados de vários arquivos: o mesmo logotipo ou a mesma fonte repetidos em cada página passam a ser guardados uma vez só, sem perder nada. Em todos os níveis, inclusive no Leve."
   ],
   "data": "2026-10-20",
   "arquivos": [
     {
       "caminho": "PDFLab-editorPDF.html",
-      "origem": "versoes/PDFLab-1.18.3.html",
-      "sha256": "de65157064fd66375ea4ca7a86e1717a16f49cb5d2255984a3dc93d4e6305b5e",
-      "tamanho": 7031442
+      "origem": "versoes/PDFLab-1.18.4.html",
+      "sha256": "1bf21dfad0947b4e8f3147c23968c4b60c676d2c39a5d47b0c3f12b51aefe8c6",
+      "tamanho": 7034430
     },
     {
       "caminho": "pdflab.pyw",
@@ -39,16 +37,16 @@
     },
     {
       "caminho": "AvulsoIA-editorPDF.html",
-      "origem": "versoes/PDFLab-1.18.3.html",
-      "sha256": "de65157064fd66375ea4ca7a86e1717a16f49cb5d2255984a3dc93d4e6305b5e",
-      "tamanho": 7031442,
+      "origem": "versoes/PDFLab-1.18.4.html",
+      "sha256": "1bf21dfad0947b4e8f3147c23968c4b60c676d2c39a5d47b0c3f12b51aefe8c6",
+      "tamanho": 7034430,
       "legado": true
     }
   ],
   "janela": 4,
-  "arquivo": "PDFLab-1.18.3.html",
-  "sha256": "de65157064fd66375ea4ca7a86e1717a16f49cb5d2255984a3dc93d4e6305b5e",
-  "tamanho": 7031442,
+  "arquivo": "PDFLab-1.18.4.html",
+  "sha256": "1bf21dfad0947b4e8f3147c23968c4b60c676d2c39a5d47b0c3f12b51aefe8c6",
+  "tamanho": 7034430,
   "icone": {
     "arquivo": "versoes/avulsoia-1.3.2.ico",
     "sha256": "4e75017b80e24aaebd287884fa3e77ed049f4616aa5dbabe235871cd465b2e67",
