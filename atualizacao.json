@@ -1,22 +1,21 @@
 {
-  "versao": "1.17.0",
+  "versao": "1.17.1",
   "novidades": [
-    "Nova ferramenta: Foto de documento para PDF. Recorta o papel da foto do celular, endireita a perspectiva e tira a sombra, com cara de escaneado.",
-    "Nova ferramenta: Endireitar páginas tortas. Mede a inclinação de cada página escaneada e deixa reta, sem perder qualidade."
+    "Quando uma atualização precisar reiniciar o Avulso IA, ele agora fecha e abre sozinho, sem pedir para você fazer isso."
   ],
   "data": "2026-10-20",
   "arquivos": [
     {
       "caminho": "AvulsoIA-editorPDF.html",
-      "origem": "versoes/AvulsoIA-1.17.0.html",
-      "sha256": "97099376d355640761ec025fff5fe90547102db280479e6f608be16ad5622d85",
-      "tamanho": 7020824
+      "origem": "versoes/AvulsoIA-1.17.1.html",
+      "sha256": "973b84c75d0f5aaf840f2804eda10777c5deb1f2ba51d05a223be31185dd7984",
+      "tamanho": 7020833
     },
     {
       "caminho": "avulsoia.pyw",
-      "origem": "programa/1.6.1/avulsoia.pyw",
-      "sha256": "6467043abc7d4ef5cee284a46a7d86594b68b973a863173f5db3f9a874a1e669",
-      "tamanho": 39135
+      "origem": "programa/1.17.1/avulsoia.pyw",
+      "sha256": "aad499a1d4147c443ea34dd167bdf1ab376933717f8592c95f3685173f7f1454",
+      "tamanho": 41251
     },
     {
       "caminho": "avulsoia.ico",
@@ -26,9 +25,9 @@
     }
   ],
   "janela": 2,
-  "arquivo": "AvulsoIA-1.17.0.html",
-  "sha256": "97099376d355640761ec025fff5fe90547102db280479e6f608be16ad5622d85",
-  "tamanho": 7020824,
+  "arquivo": "AvulsoIA-1.17.1.html",
+  "sha256": "973b84c75d0f5aaf840f2804eda10777c5deb1f2ba51d05a223be31185dd7984",
+  "tamanho": 7020833,
   "icone": {
     "arquivo": "versoes/avulsoia-1.3.2.ico",
     "sha256": "4e75017b80e24aaebd287884fa3e77ed049f4616aa5dbabe235871cd465b2e67",
