@@ -1,16 +1,16 @@
 {
-  "versao": "1.16.0",
+  "versao": "1.17.0",
   "novidades": [
-    "Nova ferramenta: Tarja automática. Acha e cobre de verdade CPF, RG, CNPJ, e-mail, telefone, CEP ou palavras em todo o PDF; você confere cada um antes.",
-    "Dividir PDF: novo jeito \"Por tamanho\" (partes que cabem num limite, ex.: 5 MB). Comprimir PDF: nova opção \"Até um tamanho\"."
+    "Nova ferramenta: Foto de documento para PDF. Recorta o papel da foto do celular, endireita a perspectiva e tira a sombra, com cara de escaneado.",
+    "Nova ferramenta: Endireitar páginas tortas. Mede a inclinação de cada página escaneada e deixa reta, sem perder qualidade."
   ],
   "data": "2026-10-20",
   "arquivos": [
     {
       "caminho": "AvulsoIA-editorPDF.html",
-      "origem": "versoes/AvulsoIA-1.16.0.html",
-      "sha256": "370397470793ffc31926b50fe338e3d336e087dca4f936da4318c4cf01bba35e",
-      "tamanho": 7000874
+      "origem": "versoes/AvulsoIA-1.17.0.html",
+      "sha256": "97099376d355640761ec025fff5fe90547102db280479e6f608be16ad5622d85",
+      "tamanho": 7020824
     },
     {
       "caminho": "avulsoia.pyw",
@@ -26,9 +26,9 @@
     }
   ],
   "janela": 2,
-  "arquivo": "AvulsoIA-1.16.0.html",
-  "sha256": "370397470793ffc31926b50fe338e3d336e087dca4f936da4318c4cf01bba35e",
-  "tamanho": 7000874,
+  "arquivo": "AvulsoIA-1.17.0.html",
+  "sha256": "97099376d355640761ec025fff5fe90547102db280479e6f608be16ad5622d85",
+  "tamanho": 7020824,
   "icone": {
     "arquivo": "versoes/avulsoia-1.3.2.ico",
     "sha256": "4e75017b80e24aaebd287884fa3e77ed049f4616aa5dbabe235871cd465b2e67",
