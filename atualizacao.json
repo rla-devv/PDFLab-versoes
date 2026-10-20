@@ -1,15 +1,15 @@
 {
-  "versao": "1.18.6",
+  "versao": "1.18.7",
   "novidades": [
-    "\"Apoie o projeto\" agora fica pequeno, ao lado do número da versão, com o coração na mesma cor dos outros botões."
+    "\"Apoie o projeto\" mais enxuto: texto menor, botão do Mercado Pago menor e \"Copiar link\" ao lado dele."
   ],
   "data": "2026-10-20",
   "arquivos": [
     {
       "caminho": "PDFLab-editorPDF.html",
-      "origem": "versoes/PDFLab-1.18.6.html",
-      "sha256": "899f543c31c8e0c1c3918e36f89a55d992fd2e1e32c52766fabd166759206135",
-      "tamanho": 7034917
+      "origem": "versoes/PDFLab-1.18.7.html",
+      "sha256": "0786cf708a48ca31cc2b882d7f4971c9229f42e460cf944010ff4a333a68e98e",
+      "tamanho": 7034789
     },
     {
       "caminho": "pdflab.pyw",
@@ -37,16 +37,16 @@
     },
     {
       "caminho": "AvulsoIA-editorPDF.html",
-      "origem": "versoes/PDFLab-1.18.6.html",
-      "sha256": "899f543c31c8e0c1c3918e36f89a55d992fd2e1e32c52766fabd166759206135",
-      "tamanho": 7034917,
+      "origem": "versoes/PDFLab-1.18.7.html",
+      "sha256": "0786cf708a48ca31cc2b882d7f4971c9229f42e460cf944010ff4a333a68e98e",
+      "tamanho": 7034789,
       "legado": true
     }
   ],
   "janela": 4,
-  "arquivo": "PDFLab-1.18.6.html",
-  "sha256": "899f543c31c8e0c1c3918e36f89a55d992fd2e1e32c52766fabd166759206135",
-  "tamanho": 7034917,
+  "arquivo": "PDFLab-1.18.7.html",
+  "sha256": "0786cf708a48ca31cc2b882d7f4971c9229f42e460cf944010ff4a333a68e98e",
+  "tamanho": 7034789,
   "icone": {
     "arquivo": "versoes/avulsoia-1.3.2.ico",
     "sha256": "4e75017b80e24aaebd287884fa3e77ed049f4616aa5dbabe235871cd465b2e67",
