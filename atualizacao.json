@@ -1,21 +1,21 @@
 {
-  "versao": "1.17.3",
+  "versao": "1.17.4",
   "novidades": [
-    "Tela inicial: os arquivos escolhidos aparecem em miniaturas maiores, todos de uma vez, e cada um tem um X para tirar só aquele."
+    "Corrige a página \"Arquivo não encontrado\" que aparecia depois de atualizar o Avulso IA. Ao instalar esta versão, o app fecha e abre sozinho uma vez."
   ],
   "data": "2026-10-20",
   "arquivos": [
     {
       "caminho": "AvulsoIA-editorPDF.html",
-      "origem": "versoes/AvulsoIA-1.17.3.html",
-      "sha256": "5fdecd6d313f42b3c675b7122d2edd70adb910ec0b58e867d64e310224bdf497",
+      "origem": "versoes/AvulsoIA-1.17.4.html",
+      "sha256": "9de5d08904a55e704bbbefaf2a13495938c4160a7a885937625bc4495d29417e",
       "tamanho": 7022639
     },
     {
       "caminho": "avulsoia.pyw",
-      "origem": "programa/1.17.1/avulsoia.pyw",
-      "sha256": "aad499a1d4147c443ea34dd167bdf1ab376933717f8592c95f3685173f7f1454",
-      "tamanho": 41251
+      "origem": "programa/1.17.4/avulsoia.pyw",
+      "sha256": "747fef61f7fcfe9e5ab5f263be3ffeec40c58c50da69812e225a4849dcebfab3",
+      "tamanho": 41663
     },
     {
       "caminho": "avulsoia.ico",
@@ -24,9 +24,9 @@
       "tamanho": 70537
     }
   ],
-  "janela": 2,
-  "arquivo": "AvulsoIA-1.17.3.html",
-  "sha256": "5fdecd6d313f42b3c675b7122d2edd70adb910ec0b58e867d64e310224bdf497",
+  "janela": 3,
+  "arquivo": "AvulsoIA-1.17.4.html",
+  "sha256": "9de5d08904a55e704bbbefaf2a13495938c4160a7a885937625bc4495d29417e",
   "tamanho": 7022639,
   "icone": {
     "arquivo": "versoes/avulsoia-1.3.2.ico",
