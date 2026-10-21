@@ -1,15 +1,15 @@
 {
-  "versao": "1.20.5",
+  "versao": "1.21.0",
   "novidades": [
-    "Correções e melhorias."
+    "Reconhecer texto (OCR) mais preciso em tabelas e formulários."
   ],
   "data": "2026-10-20",
   "arquivos": [
     {
       "caminho": "PDFLab-editorPDF.html",
-      "origem": "versoes/PDFLab-1.20.5.html",
-      "sha256": "d0d9374ed0efb62d6fcef7cf64b24cba24867601290dd116a1c91a3d64451004",
-      "tamanho": 7047850
+      "origem": "versoes/PDFLab-1.21.0.html",
+      "sha256": "d20d4348c2a3a4b9dddfe504efa464c924dec506f5659c1893517ffb569e22f6",
+      "tamanho": 7052393
     },
     {
       "caminho": "pdflab.pyw",
@@ -37,16 +37,16 @@
     },
     {
       "caminho": "AvulsoIA-editorPDF.html",
-      "origem": "versoes/PDFLab-1.20.5.html",
-      "sha256": "d0d9374ed0efb62d6fcef7cf64b24cba24867601290dd116a1c91a3d64451004",
-      "tamanho": 7047850,
+      "origem": "versoes/PDFLab-1.21.0.html",
+      "sha256": "d20d4348c2a3a4b9dddfe504efa464c924dec506f5659c1893517ffb569e22f6",
+      "tamanho": 7052393,
       "legado": true
     }
   ],
   "janela": 4,
-  "arquivo": "PDFLab-1.20.5.html",
-  "sha256": "d0d9374ed0efb62d6fcef7cf64b24cba24867601290dd116a1c91a3d64451004",
-  "tamanho": 7047850,
+  "arquivo": "PDFLab-1.21.0.html",
+  "sha256": "d20d4348c2a3a4b9dddfe504efa464c924dec506f5659c1893517ffb569e22f6",
+  "tamanho": 7052393,
   "icone": {
     "arquivo": "versoes/avulsoia-1.3.2.ico",
     "sha256": "4e75017b80e24aaebd287884fa3e77ed049f4616aa5dbabe235871cd465b2e67",
