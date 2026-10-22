@@ -4,8 +4,10 @@ Páginas prontas do PDF Lab (antes chamado Avulso IA): edição, organização e
 computador, sem enviar nada para a internet.
 
 - [`PDF Lab.zip`](https://github.com/rla-devv/PDFLab-versoes/raw/main/PDF%20Lab.zip) — o PDF Lab no Windows, para instalar pela primeira vez: tem o `Instalar PDF Lab.bat`, que
-  instala sempre numa pasta “PDF Lab” (mesmo aberto de dentro do zip), baixa um Python portátil (fica só na pasta do app) e a versão mais nova do PDF Lab, confere cada arquivo, cria o
-  atalho “PDF Lab” na Área de Trabalho e no Menu Iniciar e abre o app. (`PDFLab.zip`, `AvulsoIA.zip` e `AvulsoIA-janela.zip`
+  instala numa pasta só dele: “Extrair tudo” cria a pasta “PDF Lab”; solto entre outros arquivos, ele cria uma “PDF Lab”
+  ao lado; aberto de dentro do zip, instala numa “PDF Lab” ao lado do zip (ou em Programas do usuário, se não achar o
+  zip). Ele baixa um Python portátil (fica só na pasta do app) e a versão mais nova do PDF Lab, confere cada arquivo,
+  cria o atalho “Abrir PDF Lab” na pasta e “PDF Lab” na Área de Trabalho e no Menu Iniciar e abre o app. (`PDFLab.zip`, `AvulsoIA.zip` e `AvulsoIA-janela.zip`
   são o mesmo pacote, nos links antigos.)
 - `versoes/PDFLab-X.Y.Z.html` (até a 1.17.4, `versoes/AvulsoIA-X.Y.Z.html`) — cada versão publicada. Para usar sem
   instalar, baixe o arquivo e abra no navegador.
