@@ -1,21 +1,21 @@
 {
-  "versao": "1.21.4",
+  "versao": "1.21.5",
   "novidades": [
     "Correções e melhorias."
   ],
-  "data": "2026-10-21",
+  "data": "2026-10-22",
   "arquivos": [
     {
       "caminho": "PDFLab-editorPDF.html",
-      "origem": "versoes/PDFLab-1.21.4.html",
-      "sha256": "6fc6ca99d3533fc000daadaee02e7c2e6b0224feb831bb2818c2cc7e3f8d57ae",
-      "tamanho": 7055873
+      "origem": "versoes/PDFLab-1.21.5.html",
+      "sha256": "0fa38e4ad056bbd00db55ddafc352ef617165575828cdda304a6369483e353b9",
+      "tamanho": 7057443
     },
     {
       "caminho": "pdflab.pyw",
-      "origem": "programa/1.21.4/pdflab.pyw",
-      "sha256": "b402db4b9cdf085e42bdb8085e9dedaf71cfc970da13d1fc09a0ae7fe5098987",
-      "tamanho": 56012
+      "origem": "programa/1.21.5/pdflab.pyw",
+      "sha256": "790c187db46d49624fef4d2215397ae3c2911fc4e34dace9e11492ee802b8d93",
+      "tamanho": 58677
     },
     {
       "caminho": "pdflab.ico",
@@ -25,9 +25,9 @@
     },
     {
       "caminho": "avulsoia.pyw",
-      "origem": "programa/1.21.4/pdflab.pyw",
-      "sha256": "b402db4b9cdf085e42bdb8085e9dedaf71cfc970da13d1fc09a0ae7fe5098987",
-      "tamanho": 56012
+      "origem": "programa/1.21.5/pdflab.pyw",
+      "sha256": "790c187db46d49624fef4d2215397ae3c2911fc4e34dace9e11492ee802b8d93",
+      "tamanho": 58677
     },
     {
       "caminho": "avulsoia.ico",
@@ -37,16 +37,16 @@
     },
     {
       "caminho": "AvulsoIA-editorPDF.html",
-      "origem": "versoes/PDFLab-1.21.4.html",
-      "sha256": "6fc6ca99d3533fc000daadaee02e7c2e6b0224feb831bb2818c2cc7e3f8d57ae",
-      "tamanho": 7055873,
+      "origem": "versoes/PDFLab-1.21.5.html",
+      "sha256": "0fa38e4ad056bbd00db55ddafc352ef617165575828cdda304a6369483e353b9",
+      "tamanho": 7057443,
       "legado": true
     }
   ],
-  "janela": 5,
-  "arquivo": "PDFLab-1.21.4.html",
-  "sha256": "6fc6ca99d3533fc000daadaee02e7c2e6b0224feb831bb2818c2cc7e3f8d57ae",
-  "tamanho": 7055873,
+  "janela": 6,
+  "arquivo": "PDFLab-1.21.5.html",
+  "sha256": "0fa38e4ad056bbd00db55ddafc352ef617165575828cdda304a6369483e353b9",
+  "tamanho": 7057443,
   "icone": {
     "arquivo": "versoes/avulsoia-1.3.2.ico",
     "sha256": "4e75017b80e24aaebd287884fa3e77ed049f4616aa5dbabe235871cd465b2e67",
