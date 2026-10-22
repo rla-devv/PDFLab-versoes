@@ -1,5 +1,5 @@
 {
-  "versao": "1.21.7",
+  "versao": "1.21.8",
   "novidades": [
     "Correções e melhorias."
   ],
@@ -7,15 +7,15 @@
   "arquivos": [
     {
       "caminho": "PDFLab-editorPDF.html",
-      "origem": "versoes/PDFLab-1.21.7.html",
-      "sha256": "b7f01a578260e98944f31f03b60f3eb92b92295f153cdb5fe911842a9acaaca1",
+      "origem": "versoes/PDFLab-1.21.8.html",
+      "sha256": "021a5a500d845cb139e26a93ff431dc3eccb1659296ac09d6fe520cf343f20f6",
       "tamanho": 7057443
     },
     {
       "caminho": "pdflab.pyw",
-      "origem": "programa/1.21.7/pdflab.pyw",
-      "sha256": "ac983576860f20273d98a45134aaba613024638a39971f67ba3599fc3183b7ea",
-      "tamanho": 59557
+      "origem": "programa/1.21.8/pdflab.pyw",
+      "sha256": "20e96fc1adc41af697597d0cc521bc3d2ba43de7eeb293397ce3f5b6b75b6e04",
+      "tamanho": 60021
     },
     {
       "caminho": "pdflab.ico",
@@ -25,9 +25,9 @@
     },
     {
       "caminho": "avulsoia.pyw",
-      "origem": "programa/1.21.7/pdflab.pyw",
-      "sha256": "ac983576860f20273d98a45134aaba613024638a39971f67ba3599fc3183b7ea",
-      "tamanho": 59557
+      "origem": "programa/1.21.8/pdflab.pyw",
+      "sha256": "20e96fc1adc41af697597d0cc521bc3d2ba43de7eeb293397ce3f5b6b75b6e04",
+      "tamanho": 60021
     },
     {
       "caminho": "avulsoia.ico",
@@ -37,15 +37,15 @@
     },
     {
       "caminho": "AvulsoIA-editorPDF.html",
-      "origem": "versoes/PDFLab-1.21.7.html",
-      "sha256": "b7f01a578260e98944f31f03b60f3eb92b92295f153cdb5fe911842a9acaaca1",
+      "origem": "versoes/PDFLab-1.21.8.html",
+      "sha256": "021a5a500d845cb139e26a93ff431dc3eccb1659296ac09d6fe520cf343f20f6",
       "tamanho": 7057443,
       "legado": true
     }
   ],
   "janela": 6,
-  "arquivo": "PDFLab-1.21.7.html",
-  "sha256": "b7f01a578260e98944f31f03b60f3eb92b92295f153cdb5fe911842a9acaaca1",
+  "arquivo": "PDFLab-1.21.8.html",
+  "sha256": "021a5a500d845cb139e26a93ff431dc3eccb1659296ac09d6fe520cf343f20f6",
   "tamanho": 7057443,
   "icone": {
     "arquivo": "versoes/avulsoia-1.3.2.ico",
