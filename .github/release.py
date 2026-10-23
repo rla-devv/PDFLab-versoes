@@ -1,5 +1,5 @@
 """Cria a Release da versão do atualizacao.json, com os arquivos marcados com essa versão em "release" e o
-instalador (PDF Lab.zip → PDFLab.zip). Roda no GitHub Actions (release.yml); usa só a biblioteca padrão e o gh.
+instalador (PDF Lab.zip → PDF.Lab.zip, só para a contagem). Roda no GitHub Actions (release.yml); usa só a biblioteca padrão e o gh.
 
 - Versão que já tem Release publicada com todos os arquivos: não faz nada.
 - Cria como rascunho, envia os arquivos e só então publica (ninguém vê uma Release pela metade).
@@ -11,7 +11,8 @@ import hashlib, json, os, re, shutil, subprocess, sys, tempfile
 from pathlib import Path
 
 REPO, COMMIT = os.environ['GH_REPO'], os.environ['COMMIT']
-INSTALADOR = ('PDF Lab.zip', 'PDFLab.zip')   # arquivo no repositório, nome na Release (sem espaço)
+# arquivo no repositório (o site baixa daqui, raw/main) e nome na Release: o GitHub troca espaço por ponto
+INSTALADOR = ('PDF Lab.zip', 'PDF.Lab.zip')
 RE_NOME = re.compile(r'[A-Za-z0-9][A-Za-z0-9_.-]*')
 RE_ORIGEM = re.compile(r'(?:versoes|programa/\d+(?:\.\d+){1,3})/[A-Za-z0-9][A-Za-z0-9_.-]*')
 
