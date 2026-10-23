@@ -1,0 +1,31 @@
+# Cria a Release de cada versão nova do PDF Lab (o GitHub conta os downloads de cada arquivo da Release).
+# Copiado do repositório do código (publicacao/release.yml) pelo publicar.py; não edite aqui.
+# Sem ações de terceiros (nenhum "uses:"): só git, Python e o gh que já vêm na máquina do GitHub.
+# Permissão mínima: nada por padrão; só "contents: write" (criar a Release) no único passo que precisa.
+name: Release da versão nova
+on:
+  push:
+    branches: [main]
+    paths: [atualizacao.json]   # só quando o publicar.py publica uma versão
+permissions: {}
+concurrency:
+  group: release
+  cancel-in-progress: false
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    env:
+      GH_TOKEN: ${{ github.token }}
+      GH_REPO: ${{ github.repository }}
+      COMMIT: ${{ github.sha }}
+    steps:
+      - name: Baixar os arquivos deste commit (repositório público, sem credencial)
+        run: |
+          git init -q .
+          git fetch -q --depth 1 "https://github.com/$GH_REPO" "$COMMIT"
+          git checkout -q FETCH_HEAD
+      - name: Criar a Release (só se a versão ainda não tiver uma completa)
+        run: python3 .github/release.py
