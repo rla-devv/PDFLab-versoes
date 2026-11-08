@@ -1,16 +1,16 @@
 {
-  "versao": "1.21.11",
+  "versao": "1.21.12",
   "novidades": [
     "Correções e melhorias."
   ],
-  "data": "2026-11-04",
+  "data": "2026-11-08",
   "arquivos": [
     {
       "caminho": "PDFLab-editorPDF.html",
-      "origem": "versoes/PDFLab-1.21.11.html",
-      "sha256": "a3c509040e5dc65ce0b32de84f1bf5fa120a4a41a509c940d6f4186727011c9b",
+      "origem": "versoes/PDFLab-1.21.12.html",
+      "sha256": "241d37cd5b2b11c46c8794c787b0a0dba3131d66c45f40dca2bde8579f6d4453",
       "tamanho": 7057445,
-      "release": "v1.21.11/PDFLab-1.21.11.html"
+      "release": "v1.21.12/PDFLab-1.21.12.html"
     },
     {
       "caminho": "pdflab.pyw",
@@ -42,16 +42,16 @@
     },
     {
       "caminho": "AvulsoIA-editorPDF.html",
-      "origem": "versoes/PDFLab-1.21.11.html",
-      "sha256": "a3c509040e5dc65ce0b32de84f1bf5fa120a4a41a509c940d6f4186727011c9b",
+      "origem": "versoes/PDFLab-1.21.12.html",
+      "sha256": "241d37cd5b2b11c46c8794c787b0a0dba3131d66c45f40dca2bde8579f6d4453",
       "tamanho": 7057445,
-      "release": "v1.21.11/PDFLab-1.21.11.html",
+      "release": "v1.21.12/PDFLab-1.21.12.html",
       "legado": true
     }
   ],
   "janela": 7,
-  "arquivo": "PDFLab-1.21.11.html",
-  "sha256": "a3c509040e5dc65ce0b32de84f1bf5fa120a4a41a509c940d6f4186727011c9b",
+  "arquivo": "PDFLab-1.21.12.html",
+  "sha256": "241d37cd5b2b11c46c8794c787b0a0dba3131d66c45f40dca2bde8579f6d4453",
   "tamanho": 7057445,
   "icone": {
     "arquivo": "versoes/avulsoia-1.3.2.ico",
