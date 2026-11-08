@@ -1,5 +1,5 @@
 {
-  "versao": "1.21.12",
+  "versao": "1.21.13",
   "novidades": [
     "Correções e melhorias."
   ],
@@ -7,17 +7,17 @@
   "arquivos": [
     {
       "caminho": "PDFLab-editorPDF.html",
-      "origem": "versoes/PDFLab-1.21.12.html",
-      "sha256": "241d37cd5b2b11c46c8794c787b0a0dba3131d66c45f40dca2bde8579f6d4453",
+      "origem": "versoes/PDFLab-1.21.13.html",
+      "sha256": "5c584a8082969e195fe1823679dcd2ae594a77fb91c5436b0f081af9fd0f3af7",
       "tamanho": 7057445,
-      "release": "v1.21.12/PDFLab-1.21.12.html"
+      "release": "v1.21.13/PDFLab-1.21.13.html"
     },
     {
       "caminho": "pdflab.pyw",
-      "origem": "programa/1.21.11/pdflab.pyw",
-      "sha256": "970039ca3e5523f7a3f5cb0fab1d09ab217df42c584d3452a6fb1e38a85235ec",
-      "tamanho": 63903,
-      "release": "v1.21.11/pdflab.pyw"
+      "origem": "programa/1.21.13/pdflab.pyw",
+      "sha256": "6e2d66332c9d7a95c7485f3f73af1666fe71ade7f589ece76e6750f52797c8bc",
+      "tamanho": 71410,
+      "release": "v1.21.13/pdflab.pyw"
     },
     {
       "caminho": "pdflab.ico",
@@ -28,10 +28,10 @@
     },
     {
       "caminho": "avulsoia.pyw",
-      "origem": "programa/1.21.11/pdflab.pyw",
-      "sha256": "970039ca3e5523f7a3f5cb0fab1d09ab217df42c584d3452a6fb1e38a85235ec",
-      "tamanho": 63903,
-      "release": "v1.21.11/pdflab.pyw"
+      "origem": "programa/1.21.13/pdflab.pyw",
+      "sha256": "6e2d66332c9d7a95c7485f3f73af1666fe71ade7f589ece76e6750f52797c8bc",
+      "tamanho": 71410,
+      "release": "v1.21.13/pdflab.pyw"
     },
     {
       "caminho": "avulsoia.ico",
@@ -42,16 +42,16 @@
     },
     {
       "caminho": "AvulsoIA-editorPDF.html",
-      "origem": "versoes/PDFLab-1.21.12.html",
-      "sha256": "241d37cd5b2b11c46c8794c787b0a0dba3131d66c45f40dca2bde8579f6d4453",
+      "origem": "versoes/PDFLab-1.21.13.html",
+      "sha256": "5c584a8082969e195fe1823679dcd2ae594a77fb91c5436b0f081af9fd0f3af7",
       "tamanho": 7057445,
-      "release": "v1.21.12/PDFLab-1.21.12.html",
+      "release": "v1.21.13/PDFLab-1.21.13.html",
       "legado": true
     }
   ],
-  "janela": 7,
-  "arquivo": "PDFLab-1.21.12.html",
-  "sha256": "241d37cd5b2b11c46c8794c787b0a0dba3131d66c45f40dca2bde8579f6d4453",
+  "janela": 8,
+  "arquivo": "PDFLab-1.21.13.html",
+  "sha256": "5c584a8082969e195fe1823679dcd2ae594a77fb91c5436b0f081af9fd0f3af7",
   "tamanho": 7057445,
   "icone": {
     "arquivo": "versoes/avulsoia-1.3.2.ico",
